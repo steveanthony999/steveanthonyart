@@ -1,0 +1,23 @@
+{
+  "name": "steveanthonyart",
+  "version": "0.0.1",
+  "description": "A gallery / ecommerce site for artist Steve Anthony",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steveanthony999/steveanthonyart.git"
+  },
+  "author": "Steven Woodward",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steveanthony999/steveanthonyart/issues"
+  },
+  "homepage": "https://github.com/steveanthony999/steveanthonyart#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
