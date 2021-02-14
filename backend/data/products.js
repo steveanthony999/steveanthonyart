@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: '1',
     name: 'Power and Control',
     image: '/images/01.jpg',
     description:
@@ -13,7 +12,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '2',
     name: 'I Scream Green',
     image: '/images/02.jpg',
     description:
@@ -26,7 +24,6 @@ const products = [
     numReviews: 8,
   },
   {
-    _id: '3',
     name: 'Swallowed',
     image: '/images/03.jpg',
     description:
@@ -39,7 +36,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '4',
     name: 'Plain Pain',
     image: '/images/04.jpg',
     description:
@@ -52,7 +48,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '5',
     name: 'A Portrait of Goose',
     image: '/images/05.jpg',
     description:
@@ -65,7 +60,6 @@ const products = [
     numReviews: 10,
   },
   {
-    _id: '6',
     name: 'Elephant',
     image: '/images/06.jpg',
     description:
