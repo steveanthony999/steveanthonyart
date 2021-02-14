@@ -19,7 +19,7 @@ const ProductScreen = ({ match }) => {
 
   return (
     <>
-      <Link className='btn my-3' to='/'>
+      <Link className='btn my-3' to='/shop'>
         Go Back
       </Link>
       <Row>
